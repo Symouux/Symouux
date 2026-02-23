@@ -44,13 +44,17 @@ I build web apps, bots, and creative projects while learning new technologies co
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Symouux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Symouux&show_icons=true&theme=tokyonight&hide_border=true" alt="Symouux's GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symouux&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Symouux&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
+
+---
 
 ---
 
