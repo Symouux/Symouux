@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" width="250" alt="Symouuux Logo" />
+<img src="logo.png" width="250" alt="Symouuux Logo" />
 
 # 🌐 Welcome to my GitHub Profile
 
