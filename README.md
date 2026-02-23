@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="logo.png" width="220" alt="Symouuux Logo" />
+<img src="logo.png" width="220" alt="Symouux Logo" />
 
 # 🌐 Welcome to my GitHub Profile
 
-### Hi, I'm **Symouuux** – Full-Stack & Web Developer
+### Hi, I'm **Symouux** – Full-Stack & Web Developer
 I build web apps, bots, and creative projects while learning new technologies constantly.
 
 ---
 
 ### 🌍 Find Me Around The Web
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Symouuux)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Symouux)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](your-link)
 
@@ -47,9 +47,9 @@ I build web apps, bots, and creative projects while learning new technologies co
 ## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Symouuux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Symouux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symouuux&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symouux&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ---
@@ -58,7 +58,7 @@ I build web apps, bots, and creative projects while learning new technologies co
 
 ```javascript
 const developer = {
-  name: 'Symouuux',
+  name: 'Symouux',
   type: 'Full-Stack Developer',
   focus: ['Web Apps', 'Architecture', 'UI/UX Design'],
   tools: ['Figma', 'Git', 'VS Code', 'Postman'],
