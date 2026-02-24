@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%F0%9F%8C%90+Welcome+To+My+Github+Profile;%F0%9F%8C%90+Front+End+Developer;%F0%9F%8C%90+Back+End+Developer" alt="Typing SVG" /></a>
 
 ### Hi, I'm **Symouux** – Full-Stack & Web Developer
-I build web apps, bots, and creative projects while learning new technologies constantly.
+I specialize in building scalable web applications and creative digital solutions, with a strong focus on clean code and user experience. Always exploring
 
 ---
 
